@@ -1,4 +1,4 @@
-# # Linguegens e Paradigmas de Programação
+# Linguagens e Paradigmas de Programação
 Linguagem: Java
 
 Uma empresa de análise de dados te contratou como desenvolvedor freelancer para um projeto em Java de conversão de arquivos. Eles trabalham com vários tipos de arquivos para armazenar os dados dos clientes, mas gostariam de ter a flexibilidade de convertê-los entre si, seguindo os padrões da empresa.
